@@ -6,7 +6,7 @@ function Footer() {
     <div className="footer">
       <div className="footer-container">
         <p>All rights reserved.</p>
-        <a href="https://github.com/behruzbektester/month6leasson2">
+        <a href="https://github.com/behruzbektester/35-dars-react-amaliyot">
           Behruzbek Ibrohimov
         </a>
       </div>
